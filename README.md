@@ -1,0 +1,3 @@
+## Learning GIt and Github 
+
+creating repo files on git and locally on pc...
